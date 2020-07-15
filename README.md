@@ -1,4 +1,4 @@
-### Hi, I'm Zach Bray 👋
+### Hi, I'm Zach 👋
 
 <!--
 **zbray/zbray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
